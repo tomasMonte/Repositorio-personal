@@ -1,0 +1,52 @@
+h1 {
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(196, 196, 196, 1);
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.subtitulo {
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(196, 196, 196, 1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#batman {
+    margin:auto;
+	display:block;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.span-negrita {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#footer {
+    background-color: rgba(0, 86, 119, 1);
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 40px;
+}
+
+.Fecha-negrita {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+}
+
+.texto-con-espacio {
+    line-height: 8px;
+    margin-left: 95px;
+    list-style: square inside;
+}
+
+.lista-sin-estilo {
+    list-style: none;
+}

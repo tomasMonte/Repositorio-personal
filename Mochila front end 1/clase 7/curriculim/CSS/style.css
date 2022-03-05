@@ -74,9 +74,18 @@ h1 {
     color: hsl(208, 100%, 97%);
 }
 
+#titulo-2 {
+    font-family: 'Playfair Display', serif;
+    color: hsl(71, 100%, 50%);
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
 #body-2 {
     background-image: url(https://tramalibreria.files.wordpress.com/2014/06/book-67049_1920.jpg);
     background-size: cover;
+    font-family: 'Playfair Display', serif;
 }
 
 .parrafo-sobre-mi {
@@ -92,6 +101,5 @@ h1 {
 
 #link-curriculum {
     text-align: center;
-    color: hsl(208, 100%, 97%);
     font-size: 40px;
 }

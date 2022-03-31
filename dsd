@@ -1,0 +1,67 @@
+[33mcommit 9969e33755fad7505c391ebf1784d2664207e83a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Sun Mar 20 00:25:50 2022 -0300
+
+    borrame pls
+
+[33mcommit 12ad5dfed1e55a82ac829bee8006fc31fa0d766c[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Sun Mar 20 00:22:44 2022 -0300
+
+    Revert "borrar este commit"
+    
+    This reverts commit 292a4a18a97d16b4acfee5c10bf4e6558e84801a.
+
+[33mcommit 292a4a18a97d16b4acfee5c10bf4e6558e84801a[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Sun Mar 20 00:21:16 2022 -0300
+
+    borrar este commit
+
+[33mcommit fd8e9376976da8e8a598f9a70a1f4b4d26481d83[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Sun Mar 20 00:20:27 2022 -0300
+
+    prueba borrar commit
+
+[33mcommit 812329bd95424b57a76fae284467206933676189[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Wed Mar 9 06:59:36 2022 -0300
+
+    cambios archivos de clase 10
+
+[33mcommit 7643a78bf3322707062ff76494d2c3146599a2ee[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Sat Mar 5 00:39:05 2022 -0300
+
+    arreglo curriculum clase 7
+
+[33mcommit 561577204b2d1b9e370bca98ac4f04c7bd53a330[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Sat Mar 5 00:09:16 2022 -0300
+
+    actualizacion curriculum
+
+[33mcommit ceceb1dcc503a65b9dd7dca9cdf7001ef516eb5b[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Thu Mar 3 21:02:14 2022 -0300
+
+    cambios en el cv
+
+[33mcommit 14acd0ade01cfa15d3109d0d2f3e76d76282b35f[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Thu Mar 3 16:41:31 2022 -0300
+
+    modificacion curriculum
+
+[33mcommit 8999b23209e665aca0579c051d2f28cf483fcf97[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Thu Mar 3 16:28:57 2022 -0300
+
+    segundo commit
+
+[33mcommit dc75a506ce069f332d221bb87b8a8ee93caf8ec3[m
+Author: tomasMonte <tomas.montellano.6@gmail.com>
+Date:   Thu Mar 3 16:26:46 2022 -0300
+
+    primer commit
